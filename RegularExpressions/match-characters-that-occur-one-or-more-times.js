@@ -1,3 +1,3 @@
 let difficultSpelling = "Mississippi";
-let myRegex = /s+/g; // Change this line
+let myRegex = /s+/g;
 let result = difficultSpelling.match(myRegex);
